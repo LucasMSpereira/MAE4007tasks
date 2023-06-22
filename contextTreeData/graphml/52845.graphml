@@ -61540,7 +61540,6 @@
   <data key="d8">1.0</data>
   <data key="d9">1.0</data>
 </node>
-<node id="root"/>
 <edge source="5446" target="1814"/>
 <edge source="1814" target="5445"/>
 <edge source="1814" target="5447"/>
@@ -61584,7 +61583,6 @@
 <edge source="0" target="3"/>
 <edge source="0" target="4"/>
 <edge source="0" target="-1"/>
-<edge source="0" target="root"/>
 <edge source="18" target="59"/>
 <edge source="18" target="57"/>
 <edge source="18" target="58"/>
@@ -61644,7 +61642,6 @@
 <edge source="118" target="359"/>
 <edge source="2" target="9"/>
 <edge source="2" target="10"/>
-<edge source="2" target="root"/>
 <edge source="36" target="113"/>
 <edge source="36" target="111"/>
 <edge source="36" target="112"/>
@@ -61891,7 +61888,6 @@
 <edge source="92" target="281"/>
 <edge source="1" target="6"/>
 <edge source="1" target="7"/>
-<edge source="1" target="root"/>
 <edge source="27" target="84"/>
 <edge source="27" target="85"/>
 <edge source="27" target="86"/>
